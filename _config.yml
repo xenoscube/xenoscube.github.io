@@ -9,9 +9,9 @@ baseurl: ""
 # Title of the Site
 title: "Xenoscube"
 # Description of the Site
-description: "Xenoscube's Homepage"
+description: "Beyond Intelligence, Into the Unknown"
 # URL of Image of the Site
-site-image: /assets/images/meta.jpg
+site-image: /assets/images/cube-in-space.png
 # Keywords of the Site
 site-keywords: xenoscube, ai infra, ai supercomputer, npu
 # URL for the Image of custom Favicon
