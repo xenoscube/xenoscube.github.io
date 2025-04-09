@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://xenoscube.github.io'
+url: 'https://xenoscube.ai'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: ""
 
@@ -25,11 +25,11 @@ heroimage: /assets/images/cube-in-space.png
 # If you don't want to use any icon, you can leave them blank.
 email: contact@xenoscube.ai
 facebook_username: xenoscube
-twitter_username:
-instagram_username:
+twitter_username: /
+instagram_username: /
 linkedin_username: xenoscube
 github_username: xenoscube
-youtube_channel_id:
+youtube_channel_id: /
 reddit_username:
 behance_username:
 dribbble_username:
