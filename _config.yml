@@ -11,7 +11,7 @@ title: "Xenoscube"
 # Description of the Site
 description: "Where Superintelligence Begins"
 # URL of Image of the Site
-site-image: /assets/images/xenoscube-logo_02.png
+site-image: /assets/images/xenoscube-cube_01.png
 # Keywords of the Site
 site-keywords: xenoscube, ai infra, ai supercomputer, npu
 # URL for the Image of custom Favicon
@@ -45,7 +45,7 @@ disqus-shortname:
 author-name: Xenoscube
 # URL for the Image of the Author
 #author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
-author-image: /assets/images/xenoscube-logo_02.png
+author-image: /assets/images/xenoscube-cube_01.png
 # 60 Words About the Author
 author-about: Xenoscube is a startup company that specializes in AI infrastructure and supercomputing. We are dedicated to building the world's most advanced AI supercomputer, which will enable the development of superintelligent systems. Our mission is to push the boundaries of AI technology and create a future where superintelligence is a reality. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
